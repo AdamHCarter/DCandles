@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1749763265,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 6,
+  'type' => 'object',
+  'timeout' => 1750972865,
+  'data' => 
+  (object) array(
+     'ID' => 6,
+     'post_author' => '1',
+     'post_date' => '2025-06-12 20:24:46',
+     'post_date_gmt' => '2025-06-12 20:24:46',
+     'post_content' => '{"styles":{"elements":{"h1":{"typography":{"fontWeight":"500"}},"h2":{"typography":{"fontWeight":"500"}},"h3":{"typography":{"fontWeight":"500"}},"h4":{"typography":{"fontWeight":"500"}},"h5":{"typography":{"fontWeight":"500"}},"h6":{"typography":{"fontWeight":"500"}},"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--cormorant-garamond)"}}},"typography":{"fontFamily":"var(--wp--preset--font-family--mulish)"}},"settings":{"color":{"duotone":{"theme":[{"colors":["#000000","#ffffff"],"slug":"grayscale","name":"Grayscale"},{"colors":["#dbd3ce","#3b2300"],"slug":"primary","name":"Primary"},{"colors":["#dbd3ce","#d4a72c"],"slug":"secondary","name":"Secondary"},{"colors":["#3b2300","#d4a72c"],"slug":"primary-secondary","name":"Primary and Secondary"},{"colors":["#13100f","#3b2300"],"slug":"foreground-primary","name":"Foreground and Primary"},{"colors":["#13100f","#d4a72c"],"slug":"foreground-secondary","name":"Foreground and Secondary"},{"colors":["#3b2300","#13100f"],"slug":"primary-foreground","name":"Primary and Foreground"},{"colors":["#dbd3ce","#c6b6ac"],"slug":"background-tertiary","name":"Background and Background Alt"}]},"palette":{"theme":[{"slug":"background","color":"#dbd3ce","name":"Background"},{"slug":"foreground","color":"#13100f","name":"Foreground"},{"slug":"primary","color":"#3b2300","name":"Primary"},{"slug":"secondary","color":"#d4a72c","name":"Secondary"},{"slug":"tertiary","color":"#c6b6ac","name":"Background Alt"}]}},"typography":{"fontFamilies":{"custom":[{"id":9,"name":"Cormorant Garamond","slug":"cormorant-garamond","fontFamily":"\\"Cormorant Garamond\\"","preview":"","fontFace":[{"id":10,"fontFamily":"\\"Cormorant Garamond\\"","fontStyle":"normal","fontWeight":"300","fontDisplay":"block","unicodeRange":"U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD","src":"https:\\/\\/dcandles.ctrlaltcarter.com\\/wp-content\\/uploads\\/fonts\\/cormorant-garamond-latin-300-normal.woff2"},{"id":11,"fontFamily":"\\"Cormorant Garamond\\"","fontStyle":"normal","fontWeight":"400","fontDisplay":"block","unicodeRange":"U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD","src":"https:\\/\\/dcandles.ctrlaltcarter.com\\/wp-content\\/uploads\\/fonts\\/cormorant-garamond-latin-400-normal.woff2"},{"id":12,"fontFamily":"\\"Cormorant Garamond\\"","fontStyle":"normal","fontWeight":"500","fontDisplay":"block","unicodeRange":"U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD","src":"https:\\/\\/dcandles.ctrlaltcarter.com\\/wp-content\\/uploads\\/fonts\\/cormorant-garamond-latin-500-normal.woff2"},{"id":13,"fontFamily":"\\"Cormorant Garamond\\"","fontStyle":"normal","fontWeight":"600","fontDisplay":"block","unicodeRange":"U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD","src":"https:\\/\\/dcandles.ctrlaltcarter.com\\/wp-content\\/uploads\\/fonts\\/cormorant-garamond-latin-600-normal.woff2"},{"id":14,"fontFamily":"\\"Cormorant Garamond\\"","fontStyle":"normal","fontWeight":"700","fontDisplay":"block","unicodeRange":"U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD","src":"https:\\/\\/dcandles.ctrlaltcarter.com\\/wp-content\\/uploads\\/fonts\\/cormorant-garamond-latin-700-normal.woff2"}]}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}',
+     'post_title' => 'Custom Styles',
+     'post_excerpt' => '',
+     'post_status' => 'publish',
+     'comment_status' => 'closed',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => 'wp-global-styles-extendable',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2025-06-12 21:20:28',
+     'post_modified_gmt' => '2025-06-12 21:20:28',
+     'post_content_filtered' => '',
+     'post_parent' => 0,
+     'guid' => 'https://dcandles.ctrlaltcarter.com/wp-global-styles-extendable/',
+     'menu_order' => 0,
+     'post_type' => 'wp_global_styles',
+     'post_mime_type' => '',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

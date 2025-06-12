@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1749763324,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 54,
+  'type' => 'object',
+  'timeout' => 1750972924,
+  'data' => 
+  (object) array(
+     'ID' => 54,
+     'post_author' => '1',
+     'post_date' => '2025-06-12 21:22:04',
+     'post_date_gmt' => '2025-06-12 21:22:04',
+     'post_content' => '<!-- wp:navigation-link {"label":"About","id":25,"type":"page","url":"https://dcandles.ctrlaltcarter.com/about/","kind":"post-type","isTopLevelLink":true} /--><!-- wp:navigation-link {"label":"Blog","id":30,"type":"page","url":"https://dcandles.ctrlaltcarter.com/blog/","kind":"post-type","isTopLevelLink":true} /--><!-- wp:navigation-link {"label":"Contact","id":21,"type":"page","url":"https://dcandles.ctrlaltcarter.com/contact/","kind":"post-type","isTopLevelLink":true} /--><!-- wp:navigation-link {"label":"FAQ","id":26,"type":"page","url":"https://dcandles.ctrlaltcarter.com/faq/","kind":"post-type","isTopLevelLink":true} /--><!-- wp:navigation-link {"label":"Gallery","id":22,"type":"page","url":"https://dcandles.ctrlaltcarter.com/gallery/","kind":"post-type","isTopLevelLink":true} /--> <!-- wp:navigation-submenu {"label":"More","url":"#","kind":"custom"} --> <!-- wp:navigation-link {"label":"Pricing","id":23,"type":"page","url":"https://dcandles.ctrlaltcarter.com/pricing/","kind":"post-type","isTopLevelLink":true} /--><!-- wp:navigation-link {"label":"Services","id":24,"type":"page","url":"https://dcandles.ctrlaltcarter.com/services/","kind":"post-type","isTopLevelLink":true} /--><!-- wp:navigation-link {"label":"Specials","id":27,"type":"page","url":"https://dcandles.ctrlaltcarter.com/specials/","kind":"post-type","isTopLevelLink":true} /--><!-- wp:navigation-link {"label":"Testimonials","id":28,"type":"page","url":"https://dcandles.ctrlaltcarter.com/testimonials/","kind":"post-type","isTopLevelLink":true} /--> <!-- /wp:navigation-submenu -->',
+     'post_title' => 'Header Navigation',
+     'post_excerpt' => '',
+     'post_status' => 'inherit',
+     'comment_status' => 'closed',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => '16-revision-v1',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2025-06-12 21:22:04',
+     'post_modified_gmt' => '2025-06-12 21:22:04',
+     'post_content_filtered' => '',
+     'post_parent' => 16,
+     'guid' => 'https://dcandles.ctrlaltcarter.com/?p=54',
+     'menu_order' => 0,
+     'post_type' => 'revision',
+     'post_mime_type' => '',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

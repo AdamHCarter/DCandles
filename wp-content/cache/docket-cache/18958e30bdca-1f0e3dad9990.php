@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1749763258,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 19,
+  'type' => 'object',
+  'timeout' => 1750972858,
+  'data' => 
+  (object) array(
+     'ID' => 19,
+     'post_author' => '1',
+     'post_date' => '2025-06-12 21:20:58',
+     'post_date_gmt' => '2025-06-12 21:20:58',
+     'post_content' => '{"field_id":4,"settings":{"form_title":"Simple Contact Form","form_desc":"","submit_text":"Submit","submit_text_processing":"Sending...","antispam_v3":"1","notification_enable":"1","notifications":{"1":{"email":"{admin_email}","replyto":"{field_id=\\"2\\"}","message":"{all_fields}"}},"confirmations":{"1":{"type":"message","message":"Thanks for contacting us! We will be in touch with you shortly.","message_scroll":"1"}},"ajax_submit":"1","anti_spam":{"time_limit":{"enable":"1","duration":"2"}},"store_spam_entries":"0"},"fields":{"1":{"id":"1","type":"name","format":"simple","label":"Name","required":"1","size":"large"},"2":{"id":"2","type":"email","label":"Email","required":"1","size":"large","allowlist":"","denylist":"","default_value":""},"3":{"id":"3","type":"text","label":"Subject","size":"large"},"4":{"id":"4","type":"textarea","label":"Message","required":"1","size":"large"}},"meta":{"template":"simple-contact-form-template"},"id":19}',
+     'post_title' => 'Simple Contact Form',
+     'post_excerpt' => '',
+     'post_status' => 'publish',
+     'comment_status' => 'closed',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => 'simple-contact-form',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2025-06-12 21:20:58',
+     'post_modified_gmt' => '2025-06-12 21:20:58',
+     'post_content_filtered' => '',
+     'post_parent' => 0,
+     'guid' => 'https://dcandles.ctrlaltcarter.com/?post_type=wpforms&#038;p=19',
+     'menu_order' => 0,
+     'post_type' => 'wpforms',
+     'post_mime_type' => '',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

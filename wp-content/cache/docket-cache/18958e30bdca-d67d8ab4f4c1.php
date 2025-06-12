@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1749763291,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 39,
+  'type' => 'object',
+  'timeout' => 1750972891,
+  'data' => 
+  (object) array(
+     'ID' => 39,
+     'post_author' => '1',
+     'post_date' => '2025-06-12 21:21:31',
+     'post_date_gmt' => '2025-06-12 21:21:31',
+     'post_content' => '',
+     'post_title' => 'featured-image-4',
+     'post_excerpt' => '',
+     'post_status' => 'inherit',
+     'comment_status' => 'open',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => 'featured-image-4',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2025-06-12 21:21:31',
+     'post_modified_gmt' => '2025-06-12 21:21:31',
+     'post_content_filtered' => '',
+     'post_parent' => 0,
+     'guid' => 'https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/featured-image-4.jpg',
+     'menu_order' => 0,
+     'post_type' => 'attachment',
+     'post_mime_type' => 'image/jpeg',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

@@ -1,0 +1,13 @@
+<?php 
+return array (
+  'timestamp' => 1749763270,
+  'site_id' => 1,
+  'group' => 'term-queries',
+  'key' => 'get_terms:6bc9ded60a6824eca9402245c94c5229:0.29919700 1749763270',
+  'type' => 'array',
+  'timeout' => 1749849670,
+  'data' => 
+  array (
+  ),
+);
+/*@DOCKET_CACHE_EOF*/
