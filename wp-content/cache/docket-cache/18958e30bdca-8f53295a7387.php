@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1749851307,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 179,
+  'type' => 'object',
+  'timeout' => 1751060907,
+  'data' => 
+  (object) array(
+     'ID' => 179,
+     'post_author' => '1',
+     'post_date' => '2025-06-13 21:43:03',
+     'post_date_gmt' => '2025-06-13 21:43:03',
+     'post_content' => 'https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/cropped-ext-custom-logo-1749763223039.webp',
+     'post_title' => 'cropped-ext-custom-logo-1749763223039.webp',
+     'post_excerpt' => '',
+     'post_status' => 'inherit',
+     'comment_status' => 'open',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => 'cropped-ext-custom-logo-1749763223039-webp',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2025-06-13 21:43:03',
+     'post_modified_gmt' => '2025-06-13 21:43:03',
+     'post_content_filtered' => '',
+     'post_parent' => 8,
+     'guid' => 'https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/cropped-ext-custom-logo-1749763223039.webp',
+     'menu_order' => 0,
+     'post_type' => 'attachment',
+     'post_mime_type' => 'image/webp',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

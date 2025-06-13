@@ -1,11 +1,11 @@
 <?php 
 return array (
-  'timestamp' => 1749765815,
+  'timestamp' => 1749851302,
   'site_id' => 1,
   'group' => 'options',
   'key' => 'uninstall_plugins',
   'type' => 'array',
-  'timeout' => 1750975415,
+  'timeout' => 1751060902,
   'data' => 
   array (
     'wp-super-cache/wp-cache.php' => 'wpsupercache_uninstall',
@@ -15,6 +15,7 @@ return array (
       0 => 'Nawawi\\DocketCache\\Plugin',
       1 => 'uninstall',
     ),
+    'instagram-feed/instagram-feed.php' => 'sb_instagram_uninstall',
   ),
 );
 /*@DOCKET_CACHE_EOF*/

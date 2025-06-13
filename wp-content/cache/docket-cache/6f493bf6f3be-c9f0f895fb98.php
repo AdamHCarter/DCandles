@@ -1,22 +1,22 @@
 <?php 
 return array (
-  'timestamp' => 1749763306,
+  'timestamp' => 1749851307,
   'site_id' => 1,
   'group' => 'terms',
   'key' => 8,
   'type' => 'object',
-  'timeout' => 1750972906,
+  'timeout' => 1751060907,
   'data' => 
   (object) array(
      'term_id' => '8',
-     'name' => 'Category 4',
-     'slug' => 'category-4',
+     'name' => 'Cozy Cabin',
+     'slug' => 'category-cozy',
      'term_group' => '0',
      'term_taxonomy_id' => '8',
      'taxonomy' => 'category',
-     'description' => 'Use this description to tell users what kind of blog posts they can find in this category.',
+     'description' => 'Cottage-Core decoration ideas and all things cozy!',
      'parent' => '0',
-     'count' => '2',
+     'count' => '1',
   ),
 );
 /*@DOCKET_CACHE_EOF*/

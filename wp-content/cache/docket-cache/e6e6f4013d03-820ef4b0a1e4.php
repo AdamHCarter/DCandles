@@ -1,11 +1,11 @@
 <?php 
 return array (
-  'timestamp' => 1749763256,
+  'timestamp' => 1749855102,
   'site_id' => 1,
   'group' => 'site-transient',
   'key' => 'wp_theme_files_patterns-a0caea3562667fbc40de22ceca23b45c',
   'type' => 'array',
-  'timeout' => 1750108856,
+  'timeout' => 1749856902,
   'data' => 
   array (
     'version' => '2.0.23',

@@ -1,18 +1,18 @@
 <?php 
 return array (
-  'timestamp' => 1749763258,
+  'timestamp' => 1749855927,
   'site_id' => 1,
   'group' => 'posts',
   'key' => 19,
   'type' => 'object',
-  'timeout' => 1750972858,
+  'timeout' => 1751065527,
   'data' => 
   (object) array(
      'ID' => 19,
      'post_author' => '1',
      'post_date' => '2025-06-12 21:20:58',
      'post_date_gmt' => '2025-06-12 21:20:58',
-     'post_content' => '{"field_id":4,"settings":{"form_title":"Simple Contact Form","form_desc":"","submit_text":"Submit","submit_text_processing":"Sending...","antispam_v3":"1","notification_enable":"1","notifications":{"1":{"email":"{admin_email}","replyto":"{field_id=\\"2\\"}","message":"{all_fields}"}},"confirmations":{"1":{"type":"message","message":"Thanks for contacting us! We will be in touch with you shortly.","message_scroll":"1"}},"ajax_submit":"1","anti_spam":{"time_limit":{"enable":"1","duration":"2"}},"store_spam_entries":"0"},"fields":{"1":{"id":"1","type":"name","format":"simple","label":"Name","required":"1","size":"large"},"2":{"id":"2","type":"email","label":"Email","required":"1","size":"large","allowlist":"","denylist":"","default_value":""},"3":{"id":"3","type":"text","label":"Subject","size":"large"},"4":{"id":"4","type":"textarea","label":"Message","required":"1","size":"large"}},"meta":{"template":"simple-contact-form-template"},"id":19}',
+     'post_content' => '{"fields":{"1":{"id":"1","type":"name","label":"Name","format":"simple","description":"","required":"1","size":"large","simple_placeholder":"","simple_default":"","first_placeholder":"","first_default":"","middle_placeholder":"","middle_default":"","last_placeholder":"","last_default":"","css":""},"2":{"id":"2","type":"email","label":"Email","description":"","required":"1","size":"large","placeholder":"","confirmation_placeholder":"","default_value":false,"filter_type":"","allowlist":"","denylist":"","css":""},"3":{"id":"3","type":"text","label":"Subject","description":"","size":"large","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","input_mask":"","css":""},"4":{"id":"4","type":"textarea","label":"Message","description":"","required":"1","size":"large","placeholder":"","limit_count":"1","limit_mode":"characters","default_value":"","css":""}},"id":"19","field_id":4,"settings":{"form_title":"Simple Contact Form","form_desc":"","submit_text":"Submit","submit_text_processing":"Sending...","form_class":"","submit_class":"","ajax_submit":"1","notification_enable":"1","notifications":{"1":{"email":"{admin_email}","subject":"New Entry: Simple Contact Form","sender_name":"Dana\\u2019s Candle Cottage","sender_address":"dana@dcandles.ctrlaltcarter.com","replyto":"{field_id=\\"2\\"}","message":"{all_fields}","template":""}},"confirmations":{"1":{"type":"message","message":"<p>Thanks for contacting us! We will be in touch with you shortly.<\\/p>","message_scroll":"1","page":"55","redirect":""}},"antispam_v3":"1","anti_spam":{"time_limit":{"enable":"1","duration":"2"},"filtering_store_spam":"1"},"form_tags":[],"store_spam_entries":"0"},"search_terms":"","providers":{"constant-contact-v3":[]},"meta":{"template":"simple-contact-form-template"}}',
      'post_title' => 'Simple Contact Form',
      'post_excerpt' => '',
      'post_status' => 'publish',
@@ -22,8 +22,8 @@ return array (
      'post_name' => 'simple-contact-form',
      'to_ping' => '',
      'pinged' => '',
-     'post_modified' => '2025-06-12 21:20:58',
-     'post_modified_gmt' => '2025-06-12 21:20:58',
+     'post_modified' => '2025-06-13 01:09:51',
+     'post_modified_gmt' => '2025-06-13 01:09:51',
      'post_content_filtered' => '',
      'post_parent' => 0,
      'guid' => 'https://dcandles.ctrlaltcarter.com/?post_type=wpforms&#038;p=19',

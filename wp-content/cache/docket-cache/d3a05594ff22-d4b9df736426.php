@@ -1,11 +1,11 @@
 <?php 
 return array (
-  'timestamp' => 1749768467,
+  'timestamp' => 1749855104,
   'site_id' => 1,
   'group' => 'translation_files',
   'key' => '41ac19bba7eba8588aef28bcaec10f09',
   'type' => 'array',
-  'timeout' => 1749772067,
+  'timeout' => 1749858704,
   'data' => 
   array (
     0 => '/home/dh_mziv2k/dcandles.ctrlaltcarter.com/wp-content/plugins/ecwid-shopping-cart/languages/ecwid-shopping-cart-de_DE.mo',

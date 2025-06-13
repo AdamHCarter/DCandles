@@ -1,29 +1,67 @@
 <?php 
 return array (
-  'timestamp' => 1749763285,
+  'timestamp' => 1749851307,
   'site_id' => 1,
   'group' => 'posts',
   'key' => 36,
   'type' => 'object',
-  'timeout' => 1750972885,
+  'timeout' => 1751060907,
   'data' => 
   (object) array(
      'ID' => 36,
      'post_author' => '1',
      'post_date' => '2025-06-12 21:21:25',
      'post_date_gmt' => '2025-06-12 21:21:25',
-     'post_content' => '<!-- wp:paragraph --> <p>This paragraph serves as an introduction to your blog post. Begin by discussing the primary theme or topic that you plan to cover, ensuring it captures the reader’s interest from the very first sentence. Share a brief overview that highlights why this topic is important and how it can provide value. Use this space to set the tone for the rest of the article, preparing readers for the journey ahead. Keep your language approachable, yet informative, to create a strong connection.</p> <!-- /wp:paragraph --> <!-- wp:quote --> <blockquote class="wp-block-quote"><!-- wp:paragraph --> <p><strong>Sometimes, the simplest moments hold the deepest wisdom. Let your thoughts settle, and clarity will find you. Use this quote space to share something inspirational or reflective, perfectly aligned with the theme of your article.</strong></p> <!-- /wp:paragraph --></blockquote> <!-- /wp:quote --> <!-- wp:paragraph --> <p>This paragraph dives deeper into the topic introduced earlier, expanding on the main idea with examples, analysis, or additional context. Use this section to elaborate on specific points, ensuring that each sentence builds on the last to maintain a cohesive flow. You can include data, anecdotes, or expert opinions to reinforce your claims. Keep your language concise but descriptive enough to keep readers engaged. This is where the substance of your article begins to take shape.</p> <!-- /wp:paragraph --> <!-- wp:columns --> <div class="wp-block-columns"><!-- wp:column --> <div class="wp-block-column"><!-- wp:image {"aspectRatio":"3/4","scale":"cover"} --> <figure class="wp-block-image extendify-image-import"><img src="https://images.unsplash.com/photo-1532592068623-db1978e40df5?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxMnx8c295JTIwY2FuZGxlc3xlbnwwfHx8fDE3NDk1OTMwMDF8MA&ixlib=rb-4.1.0&orientation=portrait?q=80&w=1470" alt="" style="aspect-ratio:3/4;object-fit:cover"/></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class="wp-block-column"><!-- wp:image {"aspectRatio":"3/4","scale":"cover"} --> <figure class="wp-block-image extendify-image-import"><img src="https://images.unsplash.com/photo-1629184225039-addc6c26e9e1?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxMXx8c295JTIwY2FuZGxlc3xlbnwwfHx8fDE3NDk1OTMwMDF8MA&ixlib=rb-4.1.0&orientation=portrait?q=80&w=1470" alt="" style="aspect-ratio:3/4;object-fit:cover"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph --> <p>As you move toward the midpoint of the article, this paragraph provides an opportunity to connect earlier ideas with new insights. Use this space to present alternative perspectives or address potential questions readers might have. Strike a balance between depth and readability, ensuring the information remains digestible. This section can also serve as a transition to the closing points, maintaining momentum as you steer the discussion to its final stages.</p> <!-- /wp:paragraph --> <!-- wp:heading {"level":4} --> <h4 class="wp-block-heading">Wrapping Up with Key Insights</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>In this concluding paragraph, summarize the key takeaways from your article, reinforcing the most important ideas discussed. Encourage readers to reflect on the insights shared, or offer actionable advice they can apply in their own lives. This is your chance to leave a lasting impression, so make sure your closing thoughts are impactful and memorable. A strong conclusion not only ties the article together but also inspires readers to engage further.</p> <!-- /wp:paragraph -->',
+     'post_content' => '<!-- wp:paragraph -->
+<p>Candles have long been cherished for their warm glow and soothing ambiance, making them a perfect addition to cottage-core decor. This style celebrates simplicity, nature, and a cozy, nostalgic atmosphere, and incorporating candles can enhance these elements beautifully. In this article, we’ll explore how to seamlessly blend candles into your cottage-core aesthetic, creating a space that feels inviting and harmonious. Whether you’re new to this trend or looking to deepen your decor, understanding the role of candles can add both charm and comfort to your home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p><strong>Sometimes, the simplest moments hold the deepest wisdom. Let your thoughts settle, and clarity will find you.</strong></p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>To start, consider the types of candles that best complement cottage-core vibes think soy, beeswax, or hand-poured candles with natural scents like lavender, rosemary, or vanilla. Placing them in vintage holders, mason jars, or rustic wooden trays can amplify the natural and handmade feel of your space. Candles not only provide gentle illumination but also introduce a sensory experience that evokes calm and nostalgia, key components of the cottage-core lifestyle. Experts emphasize that scent and texture play vital roles in setting the tone, so choosing candles with subtle fragrances and tactile details can elevate your decor significantly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":119,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"extendify-image-import"} -->
+<figure class="wp-block-image size-full extendify-image-import"><img src="https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/img-kX1o77o0rUBah2OdxP3yPEQs.jpg" alt="" class="wp-image-119" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":59,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"extendify-image-import"} -->
+<figure class="wp-block-image size-full extendify-image-import"><img src="https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/img-c7pNWgKr5p8h3i9x8cUglylS.jpg" alt="" class="wp-image-59" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>While candles are a wonderful way to enhance cottage-core interiors, it’s important to balance their presence with other elements like soft fabrics, floral patterns, and natural materials. Overcrowding a space with too many candles might detract from the simplicity and tranquility that cottage-core aims to achieve. Some might wonder about safety or the practicality of using many candles regularly; using flameless LED alternatives with warm tones can be a stylish and safe compromise. By thoughtfully integrating candles alongside other decor pieces, you can maintain harmony and warmth without overwhelming your space.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">In conclusion</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Candles are a versatile and impactful addition to any cottage-core decor, offering both aesthetic and sensory benefits. By choosing natural, scented candles and pairing them with complementary rustic elements, you can create an inviting atmosphere that embodies the essence of cottage-core living. Be sure to check out our shop for our selection of homemade candles, crafted to perfectly suit this style. We also welcome custom orders, so you can find the ideal candle to brighten your cozy retreat.</p>
+<!-- /wp:paragraph -->',
      'post_title' => 'How to Incorporate Candles Into Cottage-Core Decor',
      'post_excerpt' => '',
      'post_status' => 'publish',
      'comment_status' => 'open',
-     'ping_status' => '0',
+     'ping_status' => 'closed',
      'post_password' => '',
      'post_name' => 'how-to-incorporate-candles-into-cottage-core-decor',
      'to_ping' => '',
      'pinged' => '',
-     'post_modified' => '2025-06-12 21:21:25',
-     'post_modified_gmt' => '2025-06-12 21:21:25',
+     'post_modified' => '2025-06-13 21:17:44',
+     'post_modified_gmt' => '2025-06-13 21:17:44',
      'post_content_filtered' => '',
      'post_parent' => 0,
      'guid' => 'https://dcandles.ctrlaltcarter.com/how-to-incorporate-candles-into-cottage-core-decor/',

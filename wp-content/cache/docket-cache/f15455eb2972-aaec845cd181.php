@@ -1,18 +1,18 @@
 <?php 
 return array (
-  'timestamp' => 1749769992,
+  'timestamp' => 1749855740,
   'site_id' => 1,
   'group' => 'transient',
   'key' => 'ecwid_apiv3_store_profile',
   'type' => 'object',
-  'timeout' => 1749770592,
+  'timeout' => 1749856340,
   'data' => 
   (object) array(
      'generalInfo' => 
     (object) array(
        'storeId' => 119255512,
-       'storeUrl' => 'https://store119255512.company.site/products',
-       'websitePlatform' => 'unknown',
+       'storeUrl' => 'https://dcandles.ctrlaltcarter.com/shop/',
+       'websitePlatform' => 'wordpress',
        'profileId' => 'p32176027',
        'starterSite' => 
       (object) array(
@@ -22,7 +22,7 @@ return array (
          'slugsWithoutIdsEnabled' => true,
       ),
        'storefrontUrlFormat' => 'CLEAN',
-       'storefrontUrlSlugFormat' => 'WITH_IDS',
+       'storefrontUrlSlugFormat' => 'WITHOUT_IDS',
     ),
      'account' => 
     (object) array(

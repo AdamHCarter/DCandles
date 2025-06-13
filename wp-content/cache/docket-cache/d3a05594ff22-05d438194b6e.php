@@ -1,11 +1,11 @@
 <?php 
 return array (
-  'timestamp' => 1749768467,
+  'timestamp' => 1749855104,
   'site_id' => 1,
   'group' => 'translation_files',
   'key' => '9422ac996686d463af2dccee6e718e0b',
   'type' => 'array',
-  'timeout' => 1749772067,
+  'timeout' => 1749858704,
   'data' => 
   array (
     0 => '/home/dh_mziv2k/dcandles.ctrlaltcarter.com/wp-content/plugins/extendify/languages/php/extendify-local-ar.mo',

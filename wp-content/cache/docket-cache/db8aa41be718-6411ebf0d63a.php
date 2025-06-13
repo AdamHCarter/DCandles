@@ -1,0 +1,18 @@
+<?php 
+return array (
+  'timestamp' => 1749851307,
+  'site_id' => 1,
+  'group' => 'post-queries',
+  'key' => 'wp_query:f69fdc770ca2c5aecee036c98363b114:0.13002700 17498513070.14017800 1749851307',
+  'type' => 'array',
+  'timeout' => 1749937707,
+  'data' => 
+  array (
+    'posts' => 
+    array (
+    ),
+    'found_posts' => 0,
+    'max_num_pages' => 0,
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

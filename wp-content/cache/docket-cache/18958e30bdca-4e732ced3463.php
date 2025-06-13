@@ -1,24 +1,26 @@
 <?php 
 return array (
-  'timestamp' => 1749763267,
+  'timestamp' => 1749851307,
   'site_id' => 1,
   'group' => 'posts',
   'key' => 26,
   'type' => 'object',
-  'timeout' => 1750972867,
+  'timeout' => 1751060907,
   'data' => 
   (object) array(
      'ID' => 26,
      'post_author' => '1',
      'post_date' => '2025-06-12 21:21:07',
      'post_date_gmt' => '2025-06-12 21:21:07',
-     'post_content' => '<!-- wp:cover {"url":"https://images.unsplash.com/photo-1607289171439-a6defd71be79?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxNHx8c295JTIwY2FuZGxlc3xlbnwwfHx8fDE3NDk1OTMwMDF8MA\\u0026ixlib=rb-4.1.0\\u0026orientation=portrait?fit=crop\\u0026crop=entropy%2Cfaces\\u0026auto=format%2Ccompress\\u0026w=1280","dimRatio":80,"overlayColor":"foreground","isUserOverlayColor":true,"align":"full","className":"extendify-image-import","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"dimensions":{"aspectRatio":"auto"}},"layout":{"type":"constrained"},"metadata":{"name":"Page Title"}} -->
+     'post_content' => '<!-- wp:cover {"url":"https://images.unsplash.com/photo-1607289171439-a6defd71be79?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxNHx8c295JTIwY2FuZGxlc3xlbnwwfHx8fDE3NDk1OTMwMDF8MA\\u0026ixlib=rb-4.1.0\\u0026orientation=portrait?fit=crop\\u0026crop=entropy%2Cfaces\\u0026auto=format%2Ccompress\\u0026w=1280","dimRatio":80,"overlayColor":"foreground","isUserOverlayColor":true,"metadata":{"name":"Page Title"},"align":"full","className":"extendify-image-import","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"dimensions":{"aspectRatio":"auto"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull extendify-image-import" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><img class="wp-block-cover__image-background" alt="" src="https://images.unsplash.com/photo-1607289171439-a6defd71be79?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxNHx8c295JTIwY2FuZGxlc3xlbnwwfHx8fDE3NDk1OTMwMDF8MA&amp;ixlib=rb-4.1.0&amp;orientation=portrait?fit=crop&amp;crop=entropy%2Cfaces&amp;auto=format%2Ccompress&amp;w=1280" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","placeholder":"Write title\\u0026#8230;","style":{"elements":{"link":{"color":{"text":"#fafafa"}}},"color":{"text":"#fafafa"},"typography":{"fontSize":"1.88rem"}}} -->
 <p class="has-text-align-center has-text-color has-link-color" style="color:#fafafa;font-size:1.88rem">FAQ</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div></div>
-<!-- /wp:cover --><!-- wp:group {"align":"full","backgroundColor":"tertiary","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"layout":{"inherit":true,"type":"constrained"},"metadata":{"name":"FAQ"}} -->
+<!-- /wp:cover -->
+
+<!-- wp:group {"metadata":{"name":"FAQ"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-tertiary-background-color has-background" id="faq" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--30)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"stretch","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
 <div class="wp-block-column is-vertically-aligned-stretch"><!-- wp:group {"align":"wide","style":{"dimensions":{"minHeight":"100%"}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"space-between"}} -->
@@ -49,7 +51,7 @@ return array (
 <h4 class="wp-block-heading" style="font-size:20px;line-height:1.5">What makes Dana’s candles eco-friendly?</h4>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small","style":{"spacing":{"margin":{"top":"4px"}}}} -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px"}}},"fontSize":"small"} -->
 <p class="has-small-font-size" style="margin-top:4px">Our candles are handcrafted using 100% soy wax, natural cotton wicks, and non-toxic fragrance oils.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
@@ -65,7 +67,7 @@ return array (
 <h4 class="wp-block-heading" style="font-size:20px;line-height:1.5">How long will my candle burn?</h4>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small","style":{"spacing":{"margin":{"top":"4px"}}}} -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px"}}},"fontSize":"small"} -->
 <p class="has-small-font-size" style="margin-top:4px">Depending on size, our candles burn between 40 to 60 hours, filling your space with comforting aromas.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
@@ -81,7 +83,7 @@ return array (
 <h4 class="wp-block-heading" style="font-size:20px;line-height:1.5">Can I customize a candle scent?</h4>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small","style":{"spacing":{"margin":{"top":"4px"}}}} -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px"}}},"fontSize":"small"} -->
 <p class="has-small-font-size" style="margin-top:4px">Yes! We offer custom scent blending—contact us to create a unique fragrance just for you.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
@@ -97,21 +99,23 @@ return array (
 <h4 class="wp-block-heading" style="font-size:20px;line-height:1.5">What is your shipping policy?</h4>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"small","style":{"spacing":{"margin":{"top":"4px"}}}} -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px"}}},"fontSize":"small"} -->
 <p class="has-small-font-size" style="margin-top:4px">We ship worldwide with eco-friendly packaging, usually within 3-5 business days after your order.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
-<!-- /wp:group --><!-- wp:group {"align":"full","backgroundColor":"background","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"layout":{"inherit":true,"type":"constrained"},"metadata":{"name":"About Us"}} -->
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"About Us"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-background-background-color has-background" id="about" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--30)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"60%","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
 <div class="wp-block-column" style="flex-basis:60%"><!-- wp:heading -->
 <h2 class="wp-block-heading">Eco-Friendly Soy Candles Crafted with Care</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"medium","style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px"}}},"fontSize":"medium"} -->
 <p class="has-medium-font-size" style="margin-top:16px">Dana’s Candle Cottage celebrates warmth and mindfulness, creating handmade soy candles inspired by nature and home. Our mission is to foster comfort and calm through sustainable, thoughtfully made products that connect you to cherished memories and seasonal joys.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
@@ -121,12 +125,14 @@ return array (
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:cover {"url":"https://images.unsplash.com/photo-1704573982777-770d486a91c6?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHw0fHxzb3klMjBjYW5kbGVzfGVufDB8fHx8MTc0OTU5MzAwMXww\\u0026ixlib=rb-4.1.0\\u0026orientation=portrait?fit=crop\\u0026crop=entropy%2Cfaces\\u0026auto=format%2Ccompress\\u0026w=1280","dimRatio":0,"minHeight":30,"minHeightUnit":"vh","align":"wide","className":"extendify-image-import","style":{"border":{"radius":"1.5rem"}}} -->
-<div class="wp-block-cover alignwide extendify-image-import" style="border-radius:1.5rem;min-height:30vh"><img class="wp-block-cover__image-background" alt="" src="https://images.unsplash.com/photo-1704573982777-770d486a91c6?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHw0fHxzb3klMjBjYW5kbGVzfGVufDB8fHx8MTc0OTU5MzAwMXww&amp;ixlib=rb-4.1.0&amp;orientation=portrait?fit=crop&amp;crop=entropy%2Cfaces&amp;auto=format%2Ccompress&amp;w=1280" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
+<!-- wp:cover {"url":"https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/img-c8dfVYmWyXOeAK1vvWoup9bs.jpg","id":66,"dimRatio":0,"customOverlayColor":"#4f3c25","isUserOverlayColor":false,"minHeight":30,"minHeightUnit":"vh","contentPosition":"top center","sizeSlug":"full","align":"wide","className":"extendify-image-import","style":{"border":{"radius":"1.5rem"}}} -->
+<div class="wp-block-cover alignwide has-custom-content-position is-position-top-center extendify-image-import" style="border-radius:1.5rem;min-height:30vh"><img class="wp-block-cover__image-background wp-image-66 size-full" alt="" src="https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/img-c8dfVYmWyXOeAK1vvWoup9bs.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#4f3c25"></span><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div></div>
 <!-- /wp:cover --></div>
-<!-- /wp:group --><!-- wp:group {"align":"full","backgroundColor":"tertiary","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"layout":{"inherit":true,"type":"constrained"},"metadata":{"name":" Contact "}} -->
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":" Contact "},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"tertiary","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-tertiary-background-color has-background" id="contact" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%"} -->
 <div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"aspectRatio":"3/4","scale":"cover","className":"extendify-image-import","style":{"border":{"radius":"1rem"}}} -->
@@ -158,8 +164,8 @@ return array (
      'post_name' => 'faq',
      'to_ping' => '',
      'pinged' => '',
-     'post_modified' => '2025-06-12 21:21:07',
-     'post_modified_gmt' => '2025-06-12 21:21:07',
+     'post_modified' => '2025-06-13 02:36:13',
+     'post_modified_gmt' => '2025-06-13 02:36:13',
      'post_content_filtered' => '',
      'post_parent' => 0,
      'guid' => 'https://dcandles.ctrlaltcarter.com/faq/',

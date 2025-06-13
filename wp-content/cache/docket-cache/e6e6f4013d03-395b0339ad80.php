@@ -1,14 +1,14 @@
 <?php 
 return array (
-  'timestamp' => 1749766155,
+  'timestamp' => 1749851311,
   'site_id' => 1,
   'group' => 'site-transient',
   'key' => 'update_plugins',
   'type' => 'object',
-  'timeout' => 1752185355,
+  'timeout' => 1752270511,
   'data' => 
   (object) array(
-     'last_checked' => 1749766155,
+     'last_checked' => 1749851311,
      'response' => 
     array (
     ),
@@ -62,6 +62,29 @@ return array (
         array (
         ),
          'requires' => '5.4',
+      ),
+      'blog2social/blog2social.php' => 
+      (object) array(
+         'id' => 'w.org/plugins/blog2social',
+         'slug' => 'blog2social',
+         'plugin' => 'blog2social/blog2social.php',
+         'new_version' => '8.4.5',
+         'url' => 'https://wordpress.org/plugins/blog2social/',
+         'package' => 'https://downloads.wordpress.org/plugin/blog2social.8.4.5.zip',
+         'icons' => 
+        array (
+          '2x' => 'https://ps.w.org/blog2social/assets/icon-256x256.png?rev=3076476',
+          '1x' => 'https://ps.w.org/blog2social/assets/icon-128x128.png?rev=3076476',
+        ),
+         'banners' => 
+        array (
+          '2x' => 'https://ps.w.org/blog2social/assets/banner-1544x500.png?rev=3082613',
+          '1x' => 'https://ps.w.org/blog2social/assets/banner-772x250.png?rev=3082613',
+        ),
+         'banners_rtl' => 
+        array (
+        ),
+         'requires' => '6.2',
       ),
       'docket-cache/docket-cache.php' => 
       (object) array(
@@ -178,6 +201,29 @@ return array (
         ),
          'requires' => '5.9',
       ),
+      'instagram-feed/instagram-feed.php' => 
+      (object) array(
+         'id' => 'w.org/plugins/instagram-feed',
+         'slug' => 'instagram-feed',
+         'plugin' => 'instagram-feed/instagram-feed.php',
+         'new_version' => '6.9.1',
+         'url' => 'https://wordpress.org/plugins/instagram-feed/',
+         'package' => 'https://downloads.wordpress.org/plugin/instagram-feed.6.9.1.zip',
+         'icons' => 
+        array (
+          '2x' => 'https://ps.w.org/instagram-feed/assets/icon-256x256.png?rev=2700807',
+          '1x' => 'https://ps.w.org/instagram-feed/assets/icon-128x128.png?rev=2700807',
+        ),
+         'banners' => 
+        array (
+          '2x' => 'https://ps.w.org/instagram-feed/assets/banner-1544x500.png?rev=2679382',
+          '1x' => 'https://ps.w.org/instagram-feed/assets/banner-772x250.png?rev=2679382',
+        ),
+         'banners_rtl' => 
+        array (
+        ),
+         'requires' => '4.1',
+      ),
       'wordfence/wordfence.php' => 
       (object) array(
          'id' => 'w.org/plugins/wordfence',
@@ -277,6 +323,7 @@ return array (
     array (
       'akismet/akismet.php' => '5.4',
       'all-in-one-seo-pack/all_in_one_seo_pack.php' => '4.8.3.2',
+      'blog2social/blog2social.php' => '8.4.5',
       'docket-cache/docket-cache.php' => '24.07.03',
       'dreamhost-panel-login.php' => '1.0.0',
       'ecwid-shopping-cart/ecwid-shopping-cart.php' => '7.0.1',
@@ -284,6 +331,7 @@ return array (
       'extendify/extendify.php' => '1.19.5',
       'query-monitor/query-monitor.php' => '3.17.2',
       'extendify-private.php' => '1.0.0',
+      'instagram-feed/instagram-feed.php' => '6.9.1',
       'wordfence/wordfence.php' => '8.0.5',
       'wpforms-lite/wpforms.php' => '1.9.6',
       'wp-mail-smtp/wp_mail_smtp.php' => '4.5.0',

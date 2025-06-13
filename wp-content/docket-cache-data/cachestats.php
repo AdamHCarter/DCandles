@@ -1,8 +1,8 @@
 <?php 
 return [
-    'timestamp' => 1749769872,
-    'size' => 215487,
-    'filesize' => 2086876,
-    'files' => 1054,
+    'timestamp' => 1749855952,
+    'size' => 43373,
+    'filesize' => 719242,
+    'files' => 245,
 ];
 /*@DOCKET_CACHE_EOF*/

@@ -1,11 +1,11 @@
 <?php 
 return array (
-  'timestamp' => 1749763330,
+  'timestamp' => 1749855726,
   'site_id' => 1,
   'group' => 'options',
   'key' => 'ecwid_api_status',
   'type' => 'string',
-  'timeout' => 1750972930,
-  'data' => 'ok',
+  'timeout' => 1751065326,
+  'data' => 'fail_other',
 );
 /*@DOCKET_CACHE_EOF*/

@@ -1,0 +1,37 @@
+<?php 
+return array (
+  'timestamp' => 1749851307,
+  'site_id' => 1,
+  'group' => 'posts',
+  'key' => 138,
+  'type' => 'object',
+  'timeout' => 1751060907,
+  'data' => 
+  (object) array(
+     'ID' => 138,
+     'post_author' => '1',
+     'post_date' => '2025-06-13 03:11:23',
+     'post_date_gmt' => '2025-06-13 03:11:23',
+     'post_content' => '{"fields":{"1":{"id":"1","type":"name","label":"Name","format":"simple","description":"","required":"1","size":"medium","simple_placeholder":"","simple_default":"","first_placeholder":"","first_default":"","middle_placeholder":"","middle_default":"","last_placeholder":"","last_default":"","css":""},"2":{"id":"2","type":"email","label":"Email","description":"","required":"1","size":"medium","placeholder":"","confirmation_placeholder":"","default_value":false,"filter_type":"","allowlist":"","denylist":"","css":""}},"id":"138","field_id":3,"settings":{"form_title":"Newsletter Signup Form","form_desc":"","submit_text":"Submit","submit_text_processing":"Sending...","form_class":"","submit_class":"","ajax_submit":"1","notification_enable":"1","notifications":{"1":{"email":"{admin_email}","subject":"New Entry: Newsletter Signup Form","sender_name":"Dana\\u2019s Candle Cottage","sender_address":"dana@dcandles.ctrlaltcarter.com","replyto":"{field_id=\\"2\\"}","message":"{all_fields}","template":""}},"confirmations":{"1":{"type":"message","message":"<p>Thanks for signing up for the newsletter! We\'ll be in touch soon.<\\/p>","message_scroll":"1","page":"2","redirect":""}},"antispam_v3":"1","anti_spam":{"time_limit":{"enable":"1","duration":"2"},"filtering_store_spam":"1"},"form_tags":[],"store_spam_entries":"0","conversational_forms_description":"","conversational_forms_page_slug":"newsletter-signup-form-template","conversational_forms_custom_logo":"","conversational_forms_color_scheme":"#448ccb","conversational_forms_progress_bar":"percentage","form_abandonment_fields":"","form_locker_password":"","form_locker_password_message":"","form_locker_schedule_start_date":"","form_locker_schedule_start_time":"","form_locker_schedule_end_date":"","form_locker_schedule_end_time":"","form_locker_schedule_message":"","form_locker_entry_limit":"","form_locker_entry_limit_message":"","form_locker_user_message":"","form_pages_description":"","form_pages_page_slug":"newsletter-signup-form-template","form_pages_custom_logo":"","form_pages_footer":"This content is neither created nor endorsed by WPForms.","form_pages_color_scheme":"#448ccb","form_pages_style":"modern","post_submissions":"","post_submissions_title":"","post_submissions_content":"","post_submissions_excerpt":"","post_submissions_featured":"","post_submissions_type":"post","post_submissions_status":"pending","post_submissions_author":""},"search_terms":"","providers":{"constant-contact-v3":[]},"meta":{"template":"4bf2a29bffb74b5530d89949041b535d","category":"all","subcategory":"all"},"payments":{"paypal_standard":{"email":"","mode":"production","transaction":"product","cancel_url":"","shipping":"0","note":"1"}}}',
+     'post_title' => 'Newsletter Signup Form',
+     'post_excerpt' => '',
+     'post_status' => 'publish',
+     'comment_status' => 'closed',
+     'ping_status' => 'closed',
+     'post_password' => '',
+     'post_name' => 'newsletter-signup-form',
+     'to_ping' => '',
+     'pinged' => '',
+     'post_modified' => '2025-06-13 03:29:23',
+     'post_modified_gmt' => '2025-06-13 03:29:23',
+     'post_content_filtered' => '',
+     'post_parent' => 0,
+     'guid' => 'https://dcandles.ctrlaltcarter.com/?post_type=wpforms&#038;p=138',
+     'menu_order' => 0,
+     'post_type' => 'wpforms',
+     'post_mime_type' => '',
+     'comment_count' => '0',
+     'filter' => 'raw',
+  ),
+);
+/*@DOCKET_CACHE_EOF*/

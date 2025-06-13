@@ -1,11 +1,11 @@
 <?php 
 return array (
-  'timestamp' => 1749769445,
+  'timestamp' => 1749855736,
   'site_id' => 1,
   'group' => 'user_meta',
   'key' => 1,
   'type' => 'array',
-  'timeout' => 1750115045,
+  'timeout' => 1750201336,
   'data' => 
   array (
     'nickname' => 
@@ -96,7 +96,6 @@ return array (
         14 => '2e7ba1c4128ef607d8a9710cff45c70eef29bd46',
         15 => '701a71990ff360e6f8f331ab17d6471f3acc2baf',
         16 => '8f069809bef04bb4312055c5e1e8688feae9b794',
-        17 => '4fe209de8d35388ee2ae8ac95f925c1f34f5e089',
       ),
     ),
     'wp_persisted_preferences' => 
@@ -115,7 +114,7 @@ return array (
         array (
           'enableChoosePatternModal' => false,
         ),
-        '_modified' => '2025-06-12T23:04:05.000Z',
+        '_modified' => '2025-06-13T23:02:16.000Z',
       ),
     ),
     'wp_ipg95h_dashboard_quick_press_last_post_id' => 
@@ -141,10 +140,16 @@ return array (
           ),
           'isComplementaryAreaVisible' => true,
         ),
-        '_modified' => '2025-06-12T21:40:37.785Z',
+        '_modified' => '2025-06-13T20:55:07.269Z',
         'core/edit-post' => 
         array (
           'welcomeGuide' => false,
+          'welcomeGuideTemplate' => false,
+        ),
+        'core/edit-site' => 
+        array (
+          'welcomeGuide' => false,
+          'welcomeGuidePage' => false,
         ),
       ),
     ),
@@ -317,6 +322,43 @@ return array (
           'ua' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36',
           'login' => 1749765880,
         ),
+      ),
+    ),
+    'wpforms_overview_table_columns' => 
+    array (
+      0 => 
+      array (
+        1 => 'name',
+        2 => 'tags',
+        3 => 'author',
+        4 => 'shortcode',
+        5 => 'created',
+        6 => 'locations',
+      ),
+    ),
+    'wp_ipg95h_user-settings' => 
+    array (
+      0 => 'libraryContent=browse',
+    ),
+    'wp_ipg95h_user-settings-time' => 
+    array (
+      0 => '1749780608',
+    ),
+    'closedpostboxes_attachment' => 
+    array (
+      0 => 
+      array (
+        0 => 'submitdiv',
+      ),
+    ),
+    'metaboxhidden_attachment' => 
+    array (
+      0 => 
+      array (
+        0 => 'commentstatusdiv',
+        1 => 'commentsdiv',
+        2 => 'slugdiv',
+        3 => 'authordiv',
       ),
     ),
   ),

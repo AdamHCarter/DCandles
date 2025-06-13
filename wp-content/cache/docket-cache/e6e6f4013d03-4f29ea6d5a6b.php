@@ -1,11 +1,11 @@
 <?php 
 return array (
-  'timestamp' => 1749766154,
+  'timestamp' => 1749851311,
   'site_id' => 1,
   'group' => 'site-transient',
   'key' => 'update_core',
   'type' => 'object',
-  'timeout' => 1752185354,
+  'timeout' => 1752270511,
   'data' => 
   (object) array(
      'updates' => 
@@ -31,7 +31,7 @@ return array (
          'partial_version' => '',
       ),
     ),
-     'last_checked' => 1749766154,
+     'last_checked' => 1749851311,
      'version_checked' => '6.8.1',
      'translations' => 
     array (

@@ -1,22 +1,22 @@
 <?php 
 return array (
-  'timestamp' => 1749763298,
+  'timestamp' => 1749852309,
   'site_id' => 1,
   'group' => 'terms',
   'key' => 6,
   'type' => 'object',
-  'timeout' => 1750972898,
+  'timeout' => 1751061909,
   'data' => 
   (object) array(
      'term_id' => '6',
-     'name' => 'Category 2',
-     'slug' => 'category-2',
+     'name' => 'Customer Favorites',
+     'slug' => 'category-favs',
      'term_group' => '0',
      'term_taxonomy_id' => '6',
      'taxonomy' => 'category',
-     'description' => 'Use this description to tell users what kind of blog posts they can find in this category.',
+     'description' => 'Find best sellers and long-time customer favorites.',
      'parent' => '0',
-     'count' => '2',
+     'count' => '1',
   ),
 );
 /*@DOCKET_CACHE_EOF*/

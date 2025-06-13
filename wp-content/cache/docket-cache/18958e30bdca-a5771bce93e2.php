@@ -1,29 +1,67 @@
 <?php 
 return array (
-  'timestamp' => 1749763289,
+  'timestamp' => 1749851307,
   'site_id' => 1,
   'group' => 'posts',
   'key' => 38,
   'type' => 'object',
-  'timeout' => 1750972889,
+  'timeout' => 1751060907,
   'data' => 
   (object) array(
      'ID' => 38,
      'post_author' => '1',
      'post_date' => '2025-06-12 21:21:29',
      'post_date_gmt' => '2025-06-12 21:21:29',
-     'post_content' => '<!-- wp:paragraph --> <p>This paragraph serves as an introduction to your blog post. Begin by discussing the primary theme or topic that you plan to cover, ensuring it captures the reader’s interest from the very first sentence. Share a brief overview that highlights why this topic is important and how it can provide value. Use this space to set the tone for the rest of the article, preparing readers for the journey ahead. Keep your language approachable, yet informative, to create a strong connection.</p> <!-- /wp:paragraph --> <!-- wp:quote --> <blockquote class="wp-block-quote"><!-- wp:paragraph --> <p><strong>Sometimes, the simplest moments hold the deepest wisdom. Let your thoughts settle, and clarity will find you. Use this quote space to share something inspirational or reflective, perfectly aligned with the theme of your article.</strong></p> <!-- /wp:paragraph --></blockquote> <!-- /wp:quote --> <!-- wp:paragraph --> <p>This paragraph dives deeper into the topic introduced earlier, expanding on the main idea with examples, analysis, or additional context. Use this section to elaborate on specific points, ensuring that each sentence builds on the last to maintain a cohesive flow. You can include data, anecdotes, or expert opinions to reinforce your claims. Keep your language concise but descriptive enough to keep readers engaged. This is where the substance of your article begins to take shape.</p> <!-- /wp:paragraph --> <!-- wp:columns --> <div class="wp-block-columns"><!-- wp:column --> <div class="wp-block-column"><!-- wp:image {"aspectRatio":"3/4","scale":"cover"} --> <figure class="wp-block-image extendify-image-import"><img src="https://images.unsplash.com/photo-1532592068623-db1978e40df5?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxMnx8c295JTIwY2FuZGxlc3xlbnwwfHx8fDE3NDk1OTMwMDF8MA&ixlib=rb-4.1.0&orientation=portrait?q=80&w=1470" alt="" style="aspect-ratio:3/4;object-fit:cover"/></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class="wp-block-column"><!-- wp:image {"aspectRatio":"3/4","scale":"cover"} --> <figure class="wp-block-image extendify-image-import"><img src="https://images.unsplash.com/photo-1629184225039-addc6c26e9e1?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHwxMXx8c295JTIwY2FuZGxlc3xlbnwwfHx8fDE3NDk1OTMwMDF8MA&ixlib=rb-4.1.0&orientation=portrait?q=80&w=1470" alt="" style="aspect-ratio:3/4;object-fit:cover"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:paragraph --> <p>As you move toward the midpoint of the article, this paragraph provides an opportunity to connect earlier ideas with new insights. Use this space to present alternative perspectives or address potential questions readers might have. Strike a balance between depth and readability, ensuring the information remains digestible. This section can also serve as a transition to the closing points, maintaining momentum as you steer the discussion to its final stages.</p> <!-- /wp:paragraph --> <!-- wp:heading {"level":4} --> <h4 class="wp-block-heading">Wrapping Up with Key Insights</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>In this concluding paragraph, summarize the key takeaways from your article, reinforcing the most important ideas discussed. Encourage readers to reflect on the insights shared, or offer actionable advice they can apply in their own lives. This is your chance to leave a lasting impression, so make sure your closing thoughts are impactful and memorable. A strong conclusion not only ties the article together but also inspires readers to engage further.</p> <!-- /wp:paragraph -->',
+     'post_content' => '<!-- wp:paragraph -->
+<p>Creating a candle is more than just melting wax and adding a scent, it\'s an art form that combines creativity, precision, and passion. In this article, I’ll take you behind the scenes of my candle-making process, sharing what makes each candle special and why thoughtful craftsmanship matters. Whether you’re a candle lover or simply curious about how these little lights come to life, this glimpse into my world will offer insight and inspiration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p><strong>Understanding these nuances helps you appreciate the dedication behind every candle and why handmade truly makes a difference</strong>.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>The journey begins with selecting the right materials, from the wax to the fragrances that fill each candle with personality. I carefully test combinations to ensure the perfect scent throw and burn time, paying attention to every detail that affects quality. For example, I prefer natural soy wax because it burns cleaner, and I source unique essential oils that reflect seasonal moods or personal memories. These choices turn simple candles into comforting experiences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":100,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"extendify-image-import"} -->
+<figure class="wp-block-image size-full extendify-image-import"><img src="https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/img-75zbGfOsOXqUAPsbufzro8nY.jpg" alt="" class="wp-image-100" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":114,"aspectRatio":"3/4","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"extendify-image-import"} -->
+<figure class="wp-block-image size-full extendify-image-import"><img src="https://dcandles.ctrlaltcarter.com/wp-content/uploads/2025/06/Screenshot-2025-06-12-151608-2-edited.jpg" alt="" class="wp-image-114" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>As we explore further, you might wonder how I balance creativity with consistency or how I troubleshoot common challenges like uneven burning. I’ll share some of the lessons learned along the way and why patience is key to perfecting each batch. Understanding these nuances helps you appreciate the dedication behind every candle and why handmade truly makes a difference compared to mass-produced options.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Made with love</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you’re inspired by the care and craft that goes into my candles, be sure to check out our shop where you can find a variety of homemade candles made with love. We also offer custom orders, so you can personalize your candle experience to suit your style or special occasions. I hope this behind-the-scenes look encourages you to enjoy the warm glow of thoughtfully made candles in your own home.</p>
+<!-- /wp:paragraph -->',
      'post_title' => 'Behind the Scenes: Dana’s Candle Crafting Process',
      'post_excerpt' => '',
      'post_status' => 'publish',
      'comment_status' => 'open',
-     'ping_status' => '0',
+     'ping_status' => 'closed',
      'post_password' => '',
      'post_name' => 'behind-the-scenes-danas-candle-crafting-process',
      'to_ping' => '',
      'pinged' => '',
-     'post_modified' => '2025-06-12 21:21:29',
-     'post_modified_gmt' => '2025-06-12 21:21:29',
+     'post_modified' => '2025-06-13 21:26:47',
+     'post_modified_gmt' => '2025-06-13 21:26:47',
      'post_content_filtered' => '',
      'post_parent' => 0,
      'guid' => 'https://dcandles.ctrlaltcarter.com/behind-the-scenes-danas-candle-crafting-process/',
